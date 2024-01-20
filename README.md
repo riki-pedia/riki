@@ -1,0 +1,2 @@
+# Welcome to **Rikipedia**!
+## Rikipedia was designed both to teach people and to mock [Wikipedia](https://wikipedia.org) *(yes, I even bought the custom .org domain name to go all out.)* My mission is to educate the common visitor of this page and to have some opportunity to use my coding skills for good. I created this *masterpiece* for the sake of being used *(and to mock Wikipedia)*, and so far, I have succeded in my mission. Rikipedia's logo looks like this:![Rikipedia logo](https://docs.riki-pedia.org/rikipedia%20logo.webp)
